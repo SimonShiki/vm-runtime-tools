@@ -1,0 +1,6 @@
+{
+    "sinangentoo.vmruntimetools.name": "运行时工具",
+    "sinangentoo.vmruntimetools.description": "一个可以改变Scratch运行时逻辑的工具",
+    "sinangentoo.vmruntimetools.category": "运行时工具",
+    "sinangentoo.vmruntimetools.enableWarpInThisThread": "在本线程内不刷新"
+}

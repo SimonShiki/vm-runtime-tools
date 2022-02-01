@@ -1,0 +1,6 @@
+{
+    "sinangentoo.vmruntimetools.name": "Runtime Tools",
+    "sinangentoo.vmruntimetools.description": "A tool that can change the operation of scratch runtime.",
+    "sinangentoo.vmruntimetools.category": "RTools",
+    "sinangentoo.vmruntimetools.enableWarpInThisThread": "Enable Warp In This Thread"
+}
