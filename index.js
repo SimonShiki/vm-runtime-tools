@@ -17,19 +17,6 @@ class Main extends Extension {
             color: '#00acc1',
         });
         api.addBlock({
-            opcode: 'sinangentoo.vmruntimetools.setWarpTime',
-            messageId: 'sinangentoo.vmruntimetools.setWarpTime',
-            categoryId: 'sinangentoo.vmruntimetools',
-            type: type.BlockType.COMMAND,
-            param: {
-                WARP_TIME: {
-                    type: type.ParameterType.NUMBER,
-                    default: 500
-                }
-            },
-            function: args => this.warpTime = args.WARP_TIME,
-        });
-        api.addBlock({
             opcode: 'sinangentoo.vmruntimetools.setWorkTime',
             messageId: 'sinangentoo.vmruntimetools.setWorkTime',
             categoryId: 'sinangentoo.vmruntimetools',
